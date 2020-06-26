@@ -1,4 +1,12 @@
 sword and spear 
 wall of shields
 standing strong
+<<<<<<< HEAD
 on this their chosen battle field
+=======
+on this their chosen battle field
+lalalalala
+>>>>>>> 1068e3889dd86f4084a5411bfe729e854a709ee8
+
+I will pick you up
+If you come back to Colifornia
